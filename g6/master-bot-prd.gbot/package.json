@@ -1,0 +1,23 @@
+{
+  "botId": "master-bot-prd",
+  "name": "master-bot-prd",
+  "version": "0.0.0",
+  "description": "Netshoes Master Bot",
+  "homepage": "https://www.netshoes.com.br",
+  "author": {
+    "name": "pragmatismo.io para Netshoes",
+    "email": "rodriguez@pragmatismo.io",
+    "url": "http://pragmatismo.io"
+  },
+  "license": "Private",
+  "private": true,
+  "engines": {
+    "guaribas": ">= 1.0.0"
+  },
+  "theme": "master-bot-prd.gbtheme",
+  "kb": "master-bot-prd.gbkb",
+  "ui": "default.gbui",
+  "title": "Netshoes Master Bot",
+  "whoAmIVideo": "https://generalbotnetshoes.blob.core.windows.net/generalbots98217342/NETSHOES - Institucional.mp4",
+  "engineName": "guaribas-1.0.0"
+}

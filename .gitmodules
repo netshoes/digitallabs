@@ -1,0 +1,9 @@
+[submodule "g6/BotServer"]
+	path = g6/BotServer
+	url = https://github.com/pragmatismo-io/BotServer.git
+[submodule "g6/BotLib"]
+	path = g6/BotLib
+	url = https://github.com/pragmatismo-io/BotLib.git
+[submodule "g6/pragmatismo-io-framework"]
+	path = g6/pragmatismo-io-framework
+	url = https://github.com/pragmatismo-io/pragmatismo-io-framework.git

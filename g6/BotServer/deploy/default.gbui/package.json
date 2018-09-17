@@ -1,0 +1,27 @@
+{
+  "name": "default.gbui",
+  "version": "0.0.11",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "ajv": "^6.5.3",
+    "botframework-webchat": "^0.12.0",
+    "deep-extend": "^0.6.0",
+    "fetch": "^1.1.0",
+    "msal": "^0.2.2",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0",
+    "react-helmet": "^5.2.0",
+    "react-player": "^1.6.4",
+    "react-powerbi": "^0.2.1",
+    "react-scripts": "^1.1.5",
+    "react-transition-group": "^2.4.0",
+    "url-join": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

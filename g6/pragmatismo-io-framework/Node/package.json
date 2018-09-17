@@ -1,0 +1,27 @@
+{
+  "name": "pragmatismo-io-framework",
+  "version": "1.0.15",
+  "description": "Anything reusable turned into classes.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/pragmatismo-io/pragmatismo-io-framework",
+  "contributors": [
+    "Rodrigo Rodriguez <me@rodrigorodriguez.com>",
+    "Jorge Ramos <jramos@pobox.com>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pragmatismo-io/pragmatismo-io-framework.git"
+  },
+  "dependencies": {
+    "azure-search": "^0.0.21",
+    "ms-rest-azure": "^2.5.7",
+    "url-join": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/url-join": "^0.8.2",
+    "typedoc": "^0.12.0",
+    "typescript": "^3.0.3"
+  }
+}

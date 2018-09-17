@@ -1,0 +1,18 @@
+{
+  "botId": "master-bot-prd",
+  "name": "master-bot-prd",
+  "version": "0.0.0",
+  "description": "Netshoes Master Bot KB",
+  "homepage": "https://www.netshoes.com.br",
+  "author": {
+    "name": "pragmatismo.io para Netshoes",
+    "email": "rodriguez@pragmatismo.io",
+    "url": "http://pragmatismo.io"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "guaribasEnginev2": ">= 0.0.0"
+  },
+  "engine": "guaribasEnginev2"
+}

@@ -1,0 +1,9 @@
+Você pode efetuar o pagamento das suas compras de três maneiras: Boleto Bancário, Cartão de Crédito e Paypal.
+
+- Boleto Bancário: No boleto, você efetua o pagamento à vista. Imprima o documento e efetue o pagamento em qualquer agência bancária, Casa Lotérica ou pelo internet banking. Nós seremos notificados em até 72 horas, liberando então o seu pedido.
+- Para imprimir, acesse Meus Pedidos no site, selecione o pedido desejado e clique em imprimir boleto. No e-mail de confirmação enviado pela Netshoes você tem acesso ao link e também consegue imprimir seu boleto tranquilamente. Não enviamos uma cópia impressa do boleto via Correios.
+- Cartão de Crédito: Você pode parcelar o pagamento da sua compra em até 10 vezes sem juros com parcela mínima de R$39,90. Aceitamos as bandeiras  Visa, MasterCard, American Express, Dinner’s Club, Hipercard e Elo. Para garantir sua segurança, poderemos confirmar alguns dados por telefone ou e-mail.
+- Caso a confirmação de pagamento ocorra antes das 17h, a data de confirmação será no mesmo dia e o prazo de entrega começa a contar no próximo dia útil. Após as 17h, a confirmação será processada no próximo dia útil e o prazo de entrega começa a contar no próximo dia útil após a confirmação de pagamento.
+- Paypal: Clientes que possuem o cartão de crédito cadastrado na Paypal tem a facilidade de comprar na Netshoes com esta opção de pagamento. Basta selecionar na tela de pagamento a opção de pagamento com Paypal, que a cobrança será automática e o pedido será realizado. Para qualquer outra dúvida sobre Paypal, entre em contato no site do parceiro em: www.paypal.com.br . Boas compras! :)
+
+Esse conteúdo foi útil?
