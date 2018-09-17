@@ -1,0 +1,112 @@
+{
+  "children": [
+    {
+      "id": "produtos",
+      "title": "Produtos",
+      "description": "Produtos",
+      "children": [
+        {
+          "id": "esportes",
+          "title": "Esportes",
+          "description": "Esportes",
+          "children": [
+            {
+              "id": "corrida",
+              "title": "Corrida",
+              "description": "Corrida"
+            },
+            {
+              "id": "futebol",
+              "title": "Futebol",
+              "description": "Futebol"
+            },
+            {
+              "id": "voleibol",
+              "title": "Voleibol",
+              "description": "Voleibol"
+            }
+          ]
+        },
+        {
+          "id": "fitness",
+          "title": "Fitness",
+          "description": "Fitness"
+        },
+        {
+          "id": "roupas",
+          "title": "Roupas",
+          "description": "Roupas"
+        },
+        {
+          "id": "calçados",
+          "title": "Calçados",
+          "description": "Calçados"
+        },
+        {
+          "id": "tênis",
+          "title": "Tênis",
+          "description": "Tênis"
+        }
+      ]
+    },
+    {
+      "id": "departamentos",
+      "title": "Departamentos",
+      "description": "Departamentos",
+      "children": [
+        {
+          "id": "calçados",
+          "title": "Calçados",
+          "description": "Calçados"
+        },
+        {
+          "id": "feminino",
+          "title": "Feminino",
+          "description": "Feminino"
+        },
+        {
+          "id": "infantil",
+          "title": "Infantil",
+          "description": "Infantil"
+        },
+        {
+          "id": "masculino",
+          "title": "Masculino",
+          "description": "Masculino"
+        }
+      ]
+    },
+    {
+      "id": "compras",
+      "title": "Compras",
+      "description": "Compras",
+      "children": [
+        {
+          "id": "minha-conta",
+          "title": "Minha conta",
+          "description": "Minha conta"
+        },
+        {
+          "id": "meus-pedidos",
+          "title": "Meus pedidos",
+          "description": "Meus pedidos"
+        },
+        {
+          "id": "trocas-e-devoluções",
+          "title": "Trocas e devoluções",
+          "description": "Trocas e devoluções"
+        },
+        {
+          "id": "vales-e-reembolso",
+          "title": "Vales e reembolso",
+          "description": "Vales e reembolso"
+        }
+      ]
+    },
+    {
+      "id": "meus-dados",
+      "title": "Meus dados",
+      "description": "Meus dados"
+    }
+  ]
+}

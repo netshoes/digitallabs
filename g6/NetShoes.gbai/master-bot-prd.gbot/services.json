@@ -1,0 +1,19 @@
+{
+  "marketplaceId": "",
+  "marketplacePassword": "",
+  "textAnalyticsKey": "",
+  "spellcheckerKey": "",
+  "nlpServerUrl": "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/",
+  "webchatKey": "",
+  "whatsappBotKey": "",
+  "whatsappServiceUrl": "",
+  "whatsappServiceWebhookUrl": "",
+  "whatsappServiceKey": "",
+  "whatsappServiceNumber": "",
+  "speechKey":"",
+  "speechServerUrl": "https://api.cognitive.microsoft.com/sts/v1.0",
+  "searchHost": "generalbot-netshoes.search.windows.net",
+  "searchIndex": "azuresql-index",
+  "searchIndexer": "azuresql-indexer",
+  "searchKey": ""
+}

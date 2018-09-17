@@ -1,0 +1,181 @@
+.ms-Nav {
+    background: #222;
+    color: white;
+    margin-top: 20px;
+}
+
+.ms-Nav-link {
+    color: white !important;
+    background-color: #222222 !important;
+}
+
+.ms-Nav-link a:active {
+    border-right: 2px solid white;
+}
+
+.ms-Nav-compositeLink .ms-Nav-chevronButton.ms-Nav-chevronButton--link {
+    background: #222222 !important;
+}
+
+.ms-Nav-compositeLink.is-selected .ms-Nav-chevronButton,
+.ms-Nav-compositeLink.is-selected a {
+    padding-left: 70px !important;
+}
+
+html[dir="ltr"] .ms-Nav-compositeLink.is-selected .ms-Nav-chevronButton:after,
+html[dir="ltr"] .ms-Nav-compositeLink.is-selected a:after {
+    border-left: none !important;
+}
+
+@media screen and (max-width: 419px) {
+    .sidebar {
+        display: inline-block !important;
+        background-color: #d63c4c !important;
+        height: 8%;
+        width: 100% !important;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .iconMenu {
+        color: white;
+        font-size: 13px;
+        display: inline;
+        margin-right: 20px;
+    }
+
+    .IconsMenu {
+        position: absolute;
+        top: 50%;
+        margin-top: -23px;
+        height: 22px;
+        width: 300px;
+        left: 50%;
+        margin-left: -150px;
+        text-align: center;
+        font-family: "Open Sans", sans-serif;
+    }
+
+    .iconText {
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width: 573px){
+    .tittleSideBarMenu {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 573px) and (max-width: 1000px) {
+    .tittleSideBarMenu {
+        color: white;
+        margin-top: 7px;
+        position: absolute;
+        left: 50%;
+        margin-left: -296px;
+    }
+}
+
+@media screen and (min-width: 420px) and (max-width: 1000px) {
+    .sidebar {
+        display: inline-block !important;
+        background-color: #d63c4c !important;
+        height: 8%;
+        width: 100% !important;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .iconMenu {
+        color: white;
+        font-size: 14px;
+        display: inline;
+        margin-right: 20px;
+    }
+
+    .IconsMenu {
+        position: absolute;
+        top: 50%;
+        margin-top: -11px;
+        height: 22px;
+        width: 416px;
+        left: 50%;
+        margin-left: -208px;
+        text-align: center;
+        font-family: "Open Sans", sans-serif;
+    }
+
+    .iconText {
+        cursor: pointer;
+    }
+}
+
+
+@media screen and (min-width: 1000px) {
+    .sidebar {
+        display: inline-block !important;
+        background-color: #370f53 !important;
+        height: 13%;
+        position: absolute;
+        top: 1%;
+        left: 1%;
+        width: 46% !important;
+        border-right: 14px solid #370f53 !important;
+    }
+
+    .tittleSideBarMenu {
+        color: white;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .iconMenu {
+        color: white;
+        font-size: 14px;
+        text-align: center;
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+
+    .IconsMenu {
+        width: 520px;
+        display: inline-flex;
+        position: absolute;
+        left: 50%;
+        margin-left: -249px;
+/*        top: 50%;*/
+/*        margin-top: 63px;*/
+        bottom: 10px;
+        height: 22px;
+        font-family: "Open Sans", sans-serif;
+    }
+
+    .iconText {
+        cursor: pointer;
+    }
+}
+
+/*
+@media screen and (min-height: 1000px) {
+    .tittleSideBarMenu {
+        display: block;
+    }
+}
+
+@media screen and (max-height: 1000px) {
+    .tittleSideBarMenu {
+        display: none;
+    }
+}
+*/
+
+
+.iconText:hover {
+    cursor: pointer;
+    border-bottom: 2px solid #cca064;
+    padding-bottom: 4px;
+
+}
