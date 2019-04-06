@@ -1,2 +1,1 @@
-# digitallabs
-Digital Labs
+Content-based image retrieval for the NetShoes DigitalLab
